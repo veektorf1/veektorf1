@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Wiktor!
 
-🎓 I'm a 3rd-year Computer Science student at Poznań University of Technology, passionate about **Data Science**, **Machine Learning**, and building real-world applications using AI.
+### 🎓 I'm a 3rd-year Computer Science student at Poznań University of Technology, passionate about **Data Science**, **Machine Learning**, and building real-world applications using AI.
 
-🚀 I'm currently:
-- Writing my engineering thesis on **Explainable AI (XAI)** applied to **network traffic analysis**
+### 🚀 I'm currently:
+- Writing my engineering thesis on **Explainable AI (XAI)** 
 - Exploring cloud technologies like **Google Cloud Platform (GCP)** and **BigQuery**
 - Working with tools like **Python**, **SQL**, **TensorFlow**, **Scikit-learn**, and **PL/SQL**
 
-🛠 My main skills include:
-- **Python** (pandas, numpy, sklearn, xgboost)
+### 🛠 My main skills include:
+- **Python** (pandas, numpy, sklearn, xgboost, tensorflow)
 - **SQL** (PostgreSQL, PL/SQL)
-- **Data Engineering** (ETL, BigQuery, Airflow/Cloud Composer)
-- **Machine Learning & XAI**
+- **Data Engineering** (ETL, BigQuery)
+- **Machine Learning & DeepLea**
 - **Git, Linux**, and scripting with **Bash**
 - Building quick frontends with **Bootstrap** & **Oracle APEX**
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Feel free to explore my Github profile. If you want to get to know me better here's my [LinkdIn profile](https://www.linkedin.com/in/wiktor-makowski/)
+### ✨ Feel free to explore my Github profile. If you want to get to know me better here's my [LinkdIn profile](https://www.linkedin.com/in/wiktor-makowski/)
