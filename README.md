@@ -1,4 +1,4 @@
-##👋 Hi, I'm Wiktor!
+# 👋 Hi, I'm Wiktor!
 
 🎓 I'm a 3rd-year Computer Science student at Poznań University of Technology, passionate about **Data Science**, **Machine Learning**, and building real-world applications using AI.
 
