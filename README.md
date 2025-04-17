@@ -5,7 +5,7 @@
 ### 🚀 I'm currently:
 - Writing my engineering thesis on **Explainable AI (XAI)** 
 - Exploring cloud technologies like **Google Cloud Platform (GCP)** and **BigQuery**
-- Working with tools like **Python**, **SQL**, **TensorFlow**, **Scikit-learn**, and **PL/SQL**
+- Working with tools like **Python**, **SQL**, **TensorFlow**, **Scikit-learn**
 
 ### 🛠 My main skills include:
 - **Python** (pandas, numpy, sklearn, xgboost, tensorflow)
