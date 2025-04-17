@@ -10,10 +10,11 @@
 ### 🛠 My main skills include:
 - **Python** (pandas, numpy, sklearn, xgboost, tensorflow)
 - **SQL** (PostgreSQL, PL/SQL)
+- **Database modeling** and building apps around it in ORACLE APEX
 - **Data Engineering** (ETL, BigQuery)
-- **Machine Learning & DeepLea**
-- **Git, Linux**, and scripting with **Bash**
-- Building quick frontends with **Bootstrap** & **Oracle APEX**
+- **Machine Learning & DeepLearning** - creating predictive models tailored for given problem (neural networks, decision trees, classifiers)
+- **Git, Linux**
+
 
 <!--
 **veektorf1/veektorf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
